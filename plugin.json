@@ -1,0 +1,13 @@
+{
+  "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+  "ActionKeyword": "cl",
+  "Name": "clock convert",
+  "Description": "add five numbers",
+  "Author": "Craig Lobo",
+  "Version": "1.0",
+  "Language": "python",
+  "Website": "https://github.com/Wox-launcher/Wox",
+  "IcoPath": "Images\\clock.ico",
+  "ExecuteFileName": "Time.py",
+  "Disabled": true
+}
